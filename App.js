@@ -56,7 +56,7 @@ function App() {
                     <p className="no-item-text"><span role="img" aria-label="react">📌</span> &nbsp;No Task Added !</p>}
             </div>
             <p className="footer-text">Ry@soft-creation</p>
-            <p className="footer-text">This is To-Do-List, in this we can add our tasts as per required</p>
+            <p className="footer-text">This is To-Do-List, in this we can add our tasks as per need.</p>
         </div>
     );
 }
